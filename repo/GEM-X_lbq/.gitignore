@@ -1,0 +1,50 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+.torch/
+inputs
+outputs/
+wandb/
+.ruff_cache/
+*.lock
+*.ckpt
+*.zip
+*.pt
+*.pth
+.venv/
+.pytest_cache/
+.env
+.env.*
+examples/
+examples
+
+# Local agent/editor/environment stubs
+.claude/
+.codex
+.idea/
+.idea
+.vscode/
+.vscode
+.bash_profile
+.bashrc
+.gitconfig
+.mcp.json
+.profile
+.ripgreprc
+.zprofile
+.zshrc
+
+# Local presentation artifacts
+*.pptx
+
+# Downloaded model and geometry assets
+/weights/
+/assets/soma/
+
+# Official downstream source checkouts
+/third_party/kimodo/
+/third_party/kimodo-viser/
+/third_party/soma-retargeter/

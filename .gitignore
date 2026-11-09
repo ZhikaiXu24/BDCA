@@ -1,0 +1,16 @@
+# Publish the integrated project; keep server-local data and environments local.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/repo/
+
+# Standalone upstream packaging and documentation that are outside this workflow.
+/repo/requirements.txt
+/repo/docker_requirements.in
+/repo/docker_requirements.txt
+/repo/Dockerfile
+/repo/docker-compose.yaml
+/repo/docs/
+/repo/benchmark/
+/repo/assets/
