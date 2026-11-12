@@ -1,0 +1,9 @@
+{
+  "strength": 50,
+  "foot": {"enabled": true, "strength": 80},
+  "smooth": {"enabled": true, "strength": 80},
+  "torso": {"enabled": true, "strength": 40},
+  "speed": {"enabled": false, "strength": 40},
+  "contact": {"height_m": 0.035, "horizontal_m_s": 0.48, "vertical_m_s": 0.23, "minimum_s": 0.10},
+  "floor_m": null
+}

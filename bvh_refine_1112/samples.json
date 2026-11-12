@@ -1,0 +1,84 @@
+{
+  "dataset": "https://huggingface.co/datasets/exptech/g1-moves",
+  "revision": "895d064b2385725e6aabf540461c219afc3e0916",
+  "credit": "Experiential Technologies and the performers credited in the dataset manifest",
+  "license": "CC BY 4.0",
+  "robot": "Unitree G1 EDU, 29 DOF, mode 15 (upstream manifest)",
+  "clips": [
+    [
+      "dance",
+      "J_Dance0_StepTouch",
+      "Repeated side steps and weight transfer"
+    ],
+    [
+      "dance",
+      "J_ShortDance16_JazzWalk",
+      "Walking-style dance and travelling steps"
+    ],
+    [
+      "dance",
+      "J_ShortDance14_Disco",
+      "Rapid weight transfers with arm gestures"
+    ],
+    [
+      "dance",
+      "J_Dance17_Shuffle",
+      "Quick footwork and short stance phases"
+    ],
+    [
+      "dance",
+      "B_SpiralDance",
+      "Turning and pivoting"
+    ],
+    [
+      "dance",
+      "B_DadDance",
+      "Casual dance with repeated steps"
+    ],
+    [
+      "dance",
+      "J_Dance2_Salsa",
+      "Quick alternating steps and turns"
+    ],
+    [
+      "dance",
+      "B_LongDance",
+      "Long, varied sequence and floor-height stress case"
+    ],
+    [
+      "karate",
+      "B_SpinKarate",
+      "Fast rotation and dynamic stance"
+    ],
+    [
+      "karate",
+      "B_ForwardKarate",
+      "Forward steps and single-leg loading"
+    ],
+    [
+      "karate",
+      "B_BowKarate",
+      "Intentional torso inclination and planted phases"
+    ],
+    [
+      "bonus",
+      "B_HandsUp",
+      "Upper-body gestures and low locomotion"
+    ]
+  ],
+  "manifest_sha256": "69b58916ecd22f237e6424c96f9299b15e7deef4db262d2fa50aefb2b07a846b",
+  "sha256": {
+    "J_Dance0_StepTouch": "6366923bbd6020a5de8a6e7cdb3b679f56f93a537a1e9884a6d8deb27aafd698",
+    "J_ShortDance16_JazzWalk": "df6e984f731b7b449122e7051175fc57d79e060957fa7e8a89adffbedd9e8ee7",
+    "J_ShortDance14_Disco": "0cdd632eee3eff224d3c55d547a2cb6a2e99397cfe71dc9f58edc04e97892b29",
+    "J_Dance17_Shuffle": "f644570f5ac8a576a75c2c99793c51f1ba099dd82d914e9a7cd881122ae3eb17",
+    "B_SpiralDance": "9292c1a4363be1e519d4add3a43f97d05da75d6023c8020d8250e58337168ba7",
+    "B_DadDance": "072e222d484550b2b9a6d9e9860bffd5374ce590a4d5608ff97661ff14210e2d",
+    "J_Dance2_Salsa": "a73461e17dc470956f150e4921028cd0158590b2d20ff4a1efc83f02b29f684e",
+    "B_LongDance": "ace31e90dbe5b4d87cf38193d6353b452f89f769cf173aaaf1c12fb1a58197b5",
+    "B_SpinKarate": "5acd7c997b65e85c9692048029768866540dc1c86179d492155180dc0fbcfaef",
+    "B_ForwardKarate": "3558e36a3042e91f7a07502e34efd93b9171da26a5d1734f974be94c0030dec9",
+    "B_BowKarate": "1792998a8731fe12521b2b81e7aaa70157c417bbcf0984a7e304ee684576ca1a",
+    "B_HandsUp": "72275395532058fc9bf8d8bad4cca8fe9e9f2bdd9738cbe5f73712a7ee925aa9"
+  }
+}
